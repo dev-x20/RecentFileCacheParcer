@@ -11,4 +11,4 @@ RecetFileCache.bcf can be found at "C:\Windows\AppCompat\Programs\RecentFileCach
 
 
 Usage
-Python RFCParser.py -f <path to RecentFileCache.bcf> -o <NameOfOutputFile>
+Python RFCParser.py -f "path to RecentFileCache.bcf" -o "NameOfOutputFile"
