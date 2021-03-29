@@ -1,4 +1,4 @@
-RFCParser.py extract's the path of binaries executed from RecentFileCach.bcf on Windows 7 and Windows Server 2008 R2 and provied JSON output file.
+RFCParser.py extract's the path of binaries executed from RecentFileCach.bcf on Windows 7 and Windows Server 2008 R2 it will provied a JSON output file.
 
 RecentFileCache.bcf contains the path of binaries executed between the last execution date of ProgramDataUpdater and the current time.
 
